@@ -21,6 +21,7 @@
 - [pipex](https://github.com/ilonazh/pipex)
 - [so_long](https://github.com/ilonazh/so_long)
 - [push_swap](https://github.com/ilonazh/push_swap)
+- minishell (in progress)
 # 📜 Certificates
 🟢 Zero to Mastery SQL and Database Bootcamp (in progress)
 
