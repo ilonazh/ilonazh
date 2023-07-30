@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student, based in Madrid 🇪🇸</h3>
 
 # 👋 Contact
- 📧 [Gmail](ilona.wynen@gmail.com)
+ 📧 [Gmail](mailto: ilona.wynen@gmail.com)
  🌐 [LinkedIn](https://www.linkedin.com/in/ilonazh/)
 🧑‍🎓 [42Intra](https://profile.intra.42.fr/users/ilzhabur)
 
