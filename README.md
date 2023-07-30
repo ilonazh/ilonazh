@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student, based in Madrid 🇪🇸</h3>
 
 # 👋 Contact
- 📧 [Gmail](mailto: ilona.wynen@gmail.com)
+ 📧 [Gmail](mailto:ilona.wynen@gmail.com)
  🌐 [LinkedIn](https://www.linkedin.com/in/ilonazh/)
 🧑‍🎓 [42Intra](https://profile.intra.42.fr/users/ilzhabur)
 
@@ -14,7 +14,7 @@
 
 # 💼 Projects
 
-▶️C Projects
+▶️ C Projects
 - [libft](https://github.com/ilonazh/libft)
 - [printf](https://github.com/ilonazh/libft/tree/main/printf)
 - [get_next_line](https://github.com/ilonazh/libft/tree/main/get_next_line)
@@ -22,6 +22,7 @@
 - [so_long](https://github.com/ilonazh/so_long)
 - [push_swap](https://github.com/ilonazh/push_swap)
 - minishell (in progress)
+  
 # 📜 Certificates
 🟢 Zero to Mastery SQL and Database Bootcamp (in progress)
 
